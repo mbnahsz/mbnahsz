@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Logo.png" alt="MobinaLogo" width="200px" />
+  <img src="./Logo.png" alt="MobinaLogo" width="180px" />
 </div>
 
 <div align='center'>

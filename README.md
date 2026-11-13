@@ -4,7 +4,7 @@
 
 <div align='center'>
     <h1>
-    <a href='https://instagram.com/mobinahosseinzaadeh'>Soufi Learn</a>
+    <a href='https://instagram.com/mobinahosseinzaadeh'>Mobina Hossein Zadeh</a>
   </h1>
   <h4>Hi, I'm Mobina Hossein Zadeh — a Junior Frontend Developer who loves learning</h4>
 </div>

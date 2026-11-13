@@ -1,6 +1,12 @@
+<div align="center">
+  <img src="./Logo.png" alt="MobinaLogo" logo" width="200px" />
+</div>
+
 <div align='center'>
-  <img src='./Logo.png' alt='image' width='250px'/>
-  <h1>Hi! This is Mobina.</h1>
+    <h1>
+    <a href='https://instagram.com/mobinahosseinzaadeh'>Soufi Learn</a>
+  </h1>
+  <h4>Hi, I'm Mobina Hossein Zadeh — a Junior Frontend Developer who loves learning</h4>
 </div>
 
 <h3>My Expertise </h3>
